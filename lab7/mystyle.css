@@ -1,0 +1,15 @@
+p.paraTag, h1.Title{color:crimson; 
+    background-color: black;}
+h3.hobHeading, h3.classHeading{color:crimson; 
+    background-color: black;}
+img.portrait{height: 250;
+    width: 200; opacity: 1.0;
+    display: block; margin: 0px auto;} 
+table{border-color: black;
+    border-style: double;
+    border-width: 2px;
+    border-radius: 10px;}
+ul.schedule{color:darkorange;
+    background-color: darkolivegreen;}
+li.hobList{color:darkolivegreen;
+        background-color: darkorange;}
